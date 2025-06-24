@@ -35,7 +35,7 @@
           { "description": "Natural Gas", "proName": "NYMEX:NG1!" }
         ],
         "showSymbolLogo": true,
-        "isTransparent": false,
+<!-- "isTransparent": false, -->
         "displayMode": "adaptive",
         "colorTheme": "light",
         "locale": "en"
